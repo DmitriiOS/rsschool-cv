@@ -1,12 +1,14 @@
 [rsschool-cv](https://github.com/dmitriios)
 ---
 ---
+
 **Dmitrii Orlov**
 ===
 
 Junior Frontend Developer
 ---
 ---
+
 Contact information:
 ---
 
@@ -41,6 +43,7 @@ Skills and proficiency:
 - Figma
 
 ---
+
 Languages:
 ---
 - Russian _(Native)_
